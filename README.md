@@ -1,4 +1,4 @@
-# txt2web
+# character2web
 
 Generate simple personal websites for fictional characters based on character prompts.
 
